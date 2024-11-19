@@ -1,0 +1,1 @@
+puts 'hello jetruby academy!'
