@@ -1,0 +1,1 @@
+puts 'bolshie kurtki?'
