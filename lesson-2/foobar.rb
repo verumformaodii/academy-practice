@@ -6,9 +6,9 @@ def foobar
     b = gets.chomp.to_i
 
     if (a == 20 || b == 20)
-        puts b
+        puts "Одно из чисел равняется 20, поэтому выводим второё число: #{b}"
     else
-        puts a + b
+        puts "Результат: #{a + b}"
     end
 end
 
